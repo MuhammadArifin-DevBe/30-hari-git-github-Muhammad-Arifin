@@ -1,0 +1,1 @@
+fungsi dari git ini adalah ketika menjalankannya, maka Git akan membuat sebuah folder tersembunyi bernama .git di dalam direktori proyek, foldernya adalah otak dari repositori. berisi semua data dan riwayat perubahan
