@@ -1,0 +1,6 @@
+Saat mencoba perintah `git restore`, saya awalnya penasaran apakah perubahan saya benar-benar bisa dibatalkan. Setelah saya ubah isi file `hari-05.txt` menjadi teks yang salah dan menjalankan `git status`, Git memang mendeteksi perubahan tersebut sebagai "modified".
+
+Lalu saya menjalankan `git restore hari-05.txt`, dan ternyata benar — isi file langsung kembali ke versi awal yang saya commit sebelumnya, yaitu "Ini teks yang benar." Saya tidak perlu mengingat atau menghapus manual, Git yang mengembalikannya secara otomatis.
+
+Menurut saya, `git restore` sangat berguna ketika kita melakukan kesalahan kecil atau tidak sengaja mengubah sesuatu dan ingin cepat-cepat membatalkannya. Ini membuat kerja jadi lebih aman dan efisien.
+
