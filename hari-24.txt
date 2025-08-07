@@ -1,0 +1,31 @@
+diff :
+diff --git a/portofolio.html b/portofolio.html
+index be604e5..cf579a4 100644
+--- a/portofolio.html
++++ b/portofolio.html
+@@ -5,7 +5,8 @@
+     <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+-    <h1>Hallo, Selamat Datang di Portofolio Saya</h1>
++    <!-- Waktu Pertama dibuat sudah h1, jadi saya ganti ke h2 -->
++    <h2>Hallo, Selamat Datang di Portofolio Saya</h2>
+     <p>My proyek-proyek saya akan show ditampilkan di sini.</p>
+     <p></p>
+ </body>
+diff --git a/profil.txt b/profil.txt
+index 057ae67..e5fa064 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1 +1,2 @@
+ "Nama saya Fin keren, hobi saya tidak ada"
++"Kota saya, Banjarmasin"
+
+diff --staged :
+diff --git a/profil.txt b/profil.txt
+index 057ae67..e5fa064 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1 +1,2 @@
+ "Nama saya Fin keren, hobi saya tidak ada"
++"Kota saya, Banjarmasin"
